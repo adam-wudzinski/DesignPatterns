@@ -6,11 +6,11 @@ public class Main {
         Party party1  = new Party();
         Party party2  = new Party();
 
-        Composite hero1 = new Hero(10);
-        Composite hero2 = new Hero(20);
-        Composite hero3 = new Hero(30);
-        Composite hero4 = new Hero(40);
-        Composite hero5 = new Hero(50);
+        Component hero1 = new Hero(10);
+        Component hero2 = new Hero(20);
+        Component hero3 = new Hero(30);
+        Component hero4 = new Hero(40);
+        Component hero5 = new Hero(50);
 
         party1.addMember(hero1);
         party1.addMember(hero2);

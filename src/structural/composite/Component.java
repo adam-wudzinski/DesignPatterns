@@ -1,7 +1,7 @@
 package structural.composite;
 
 
-public interface Composite {
+public interface Component {
 
     long getTotalGold();
 }

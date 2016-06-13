@@ -1,7 +1,7 @@
 package structural.composite;
 
 
-public class Hero implements Composite{
+public class Hero implements Component {
     private long gold;
 
 
