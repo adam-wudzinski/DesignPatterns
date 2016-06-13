@@ -1,10 +1,10 @@
-package factoryMethod;
+package creational.factoryMethod;
 
 
-import factoryMethod.implementations.BarChartResultCreator;
-import factoryMethod.implementations.LineChartResultCreator;
-import factoryMethod.interfaces.Data;
-import factoryMethod.interfaces.ResultCreator;
+import creational.factoryMethod.implementations.BarChartResultCreator;
+import creational.factoryMethod.implementations.LineChartResultCreator;
+import creational.factoryMethod.interfaces.Data;
+import creational.factoryMethod.interfaces.ResultCreator;
 
 public class Main {
 

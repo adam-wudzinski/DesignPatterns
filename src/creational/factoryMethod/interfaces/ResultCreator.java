@@ -1,4 +1,4 @@
-package factoryMethod.interfaces;
+package creational.factoryMethod.interfaces;
 
 
 public abstract class ResultCreator {

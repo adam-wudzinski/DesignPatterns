@@ -1,6 +1,4 @@
-package abstractFactory.interfaces;
-
-import java.util.List;
+package creational.abstractFactory.interfaces;
 
 public interface CarFactory {
     Engine createngine();

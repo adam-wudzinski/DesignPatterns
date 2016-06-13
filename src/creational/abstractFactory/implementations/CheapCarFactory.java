@@ -1,10 +1,10 @@
-package abstractFactory.implementations;
+package creational.abstractFactory.implementations;
 
 
-import abstractFactory.interfaces.CarFactory;
-import abstractFactory.interfaces.Engine;
-import abstractFactory.interfaces.Exhaust;
-import abstractFactory.interfaces.Wheel;
+import creational.abstractFactory.interfaces.CarFactory;
+import creational.abstractFactory.interfaces.Engine;
+import creational.abstractFactory.interfaces.Exhaust;
+import creational.abstractFactory.interfaces.Wheel;
 
 public class CheapCarFactory implements CarFactory{
 
