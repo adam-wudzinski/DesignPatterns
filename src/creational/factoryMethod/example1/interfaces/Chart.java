@@ -1,4 +1,4 @@
-package creational.factoryMethod.interfaces;
+package creational.factoryMethod.example1.interfaces;
 
 
 public abstract class Chart {
